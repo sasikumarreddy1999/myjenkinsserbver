@@ -1,0 +1,4 @@
+this is my first job in jenkins
+sudo apt update
+sudo apt install fontconfig openjdk-21-jre
+java -version
